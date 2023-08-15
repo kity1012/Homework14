@@ -1,0 +1,460 @@
+.a0284edd2e6dbf751bb354810860d3-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1104px;
+  object-fit: cover;
+}
+.landing06-01-child {
+  position: absolute;
+  top: 373px;
+  left: 0;
+  background: linear-gradient(
+    0deg,
+    #0a1e27,
+    rgba(10, 30, 39, 0.4) 42.19%,
+    rgba(2, 34, 49, 0.457) 68.23%
+  );
+  width: 1440px;
+  height: 4251px;
+}
+.adventure,
+.adventure1 {
+  position: absolute;
+  top: 28px;
+  left: 92px;
+  line-height: 34px;
+  font-family: "Major Mono Display";
+}
+.adventure1 {
+  top: 250px;
+  left: 91px;
+  font-size: 100px;
+  line-height: 100px;
+  font-family: "Playfair Display";
+}
+.life-is-great {
+  position: absolute;
+  top: 358px;
+  left: 93px;
+  font-size: 20px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+  color: #d3ba74;
+}
+.lorem-ipsum-is {
+  position: absolute;
+  top: 420px;
+  left: 91px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  width: 513px;
+}
+.read-more {
+  position: relative;
+  line-height: 18px;
+}
+.read-more-wrapper {
+  position: absolute;
+  top: 532px;
+  left: 92px;
+  border-radius: 4px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.363);
+  border: 1px solid #1c1b1b;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 16px;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+.lorem-ipsum-is1 {
+  position: absolute;
+  top: 318px;
+  left: 159px;
+  line-height: 24px;
+  font-weight: 300;
+  display: inline-block;
+  width: 528px;
+}
+.explore {
+  margin: 0;
+}
+.explore-the-world-container {
+  position: absolute;
+  top: 158px;
+  left: 159px;
+  font-size: 70px;
+  line-height: 70px;
+  font-family: "Playfair Display";
+  color: #cdc7c700;
+  display: inline-block;
+  width: 564px;
+}
+.get-started {
+  position: absolute;
+  top: 124px;
+  left: 218px;
+  font-size: 14px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+  color: #d3ba74;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 180px;
+  line-height: 150%;
+  font-weight: 600;
+  color: rgba(36, 35, 35, 0.715);
+}
+.group-child {
+  position: absolute;
+  top: 134px;
+  left: 159px;
+  background-color: #d3ba74;
+  width: 51px;
+  height: 2px;
+}
+.lorem-ipsum-is-simply-dummy-te-parent {
+  position: absolute;
+  top: 1046px;
+  left: 93px;
+  width: 723px;
+  height: 414px;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.image-27-icon {
+  position: absolute;
+  top: 1046px;
+  left: 836px;
+  width: 512px;
+  height: 512px;
+  object-fit: cover;
+}
+.image-27-icon1,
+.image-29-icon,
+.image-30-icon,
+.image-32-icon {
+  position: absolute;
+  top: 1622px;
+  left: 730px;
+  width: 299px;
+  height: 197px;
+  object-fit: cover;
+}
+.image-29-icon,
+.image-30-icon,
+.image-32-icon {
+  left: 92px;
+}
+.image-30-icon,
+.image-32-icon {
+  left: 1049px;
+}
+.image-32-icon {
+  left: 411px;
+}
+.hiking-essentials {
+  position: absolute;
+  top: 124px;
+  left: 250px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+}
+.dont-miss,
+.the-nice-thing {
+  position: absolute;
+  left: 192px;
+}
+.dont-miss {
+  top: 158px;
+  font-size: 70px;
+  line-height: 70px;
+  font-family: "Playfair Display";
+  color: #fff;
+}
+.the-nice-thing {
+  top: 248px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  width: 511px;
+}
+.group-item {
+  position: absolute;
+  top: 134px;
+  left: 192px;
+  background-color: #d3ba74;
+  width: 51px;
+  height: 2px;
+}
+.hiking-essentials-parent {
+  position: absolute;
+  top: 1969px;
+  left: 624px;
+  width: 703px;
+  height: 368px;
+  font-size: 14px;
+  color: #d3ba74;
+}
+.image-27-icon2,
+.image-28-icon {
+  position: absolute;
+  width: 512px;
+  height: 512px;
+  object-fit: cover;
+}
+.image-27-icon2 {
+  top: 1969px;
+  left: 92px;
+  opacity: 0.5;
+}
+.image-28-icon {
+  top: 2631px;
+  left: 836px;
+}
+.image-27-icon3,
+.image-29-icon1,
+.image-30-icon1,
+.image-31-icon {
+  position: absolute;
+  top: 3207px;
+  left: 411px;
+  width: 299px;
+  height: 197px;
+  object-fit: cover;
+}
+.image-27-icon3,
+.image-30-icon1,
+.image-31-icon {
+  left: 92px;
+}
+.image-27-icon3,
+.image-31-icon {
+  left: 1049px;
+}
+.image-27-icon3 {
+  left: 730px;
+}
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  line-height: 110px;
+  font-weight: 600;
+}
+.visited-countries {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  font-size: 14px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+  color: #d3ba74;
+}
+.parent {
+  position: relative;
+  width: 176px;
+  height: 132px;
+}
+.div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 110px;
+  font-weight: 600;
+}
+.travel-touts {
+  position: absolute;
+  top: 110px;
+  left: 18px;
+  font-size: 14px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+  color: #d3ba74;
+}
+.group {
+  position: relative;
+  width: 159px;
+  height: 132px;
+}
+.happy-clients {
+  position: absolute;
+  top: 110px;
+  left: 42px;
+  font-size: 14px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+  color: #d3ba74;
+}
+.container {
+  position: relative;
+  width: 223px;
+  height: 132px;
+}
+.div5 {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  line-height: 110px;
+  font-weight: 600;
+}
+.group-div {
+  position: relative;
+  width: 149px;
+  height: 132px;
+}
+.group-parent {
+  position: absolute;
+  top: 3554px;
+  left: 217px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 100px;
+  font-size: 100px;
+  color: rgba(255, 255, 255, 0.13);
+}
+.adventure2 {
+  position: absolute;
+  top: 4401px;
+  left: 92px;
+  line-height: 34px;
+  font-family: "Major Mono Display";
+}
+.landing06-01-item {
+  position: absolute;
+  top: 4360px;
+  left: 92px;
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 1256px;
+  height: 1px;
+}
+.explore-more {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  line-height: 70px;
+  font-family: "Playfair Display";
+}
+.lorem-ipsum-is2 {
+  position: absolute;
+  top: 204px;
+  left: 0;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  width: 512px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 1256px;
+  height: 1px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 81px;
+  left: 638px;
+  width: 618px;
+  height: 382px;
+  object-fit: cover;
+}
+.read-more-container {
+  position: absolute;
+  top: 388px;
+  left: 0;
+  border-radius: 4px;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #fff;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 16px;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+.explore-more-parent {
+  position: absolute;
+  top: 3817px;
+  left: 92px;
+  width: 1256px;
+  height: 463px;
+  font-size: 70px;
+}
+.where-you-go {
+  position: absolute;
+  top: 124px;
+  left: 246px;
+  letter-spacing: 0.24em;
+  line-height: 22px;
+}
+.open-the-wihdow {
+  position: absolute;
+  top: 158px;
+  left: 193px;
+  font-size: 70px;
+  line-height: 70px;
+  font-family: "Playfair Display";
+  color: #fff;
+}
+.to-start-print {
+  position: absolute;
+  top: 248px;
+  left: 193px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  width: 501px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 134px;
+  left: 193px;
+  background-color: #d3ba74;
+  width: 51px;
+  height: 2px;
+}
+.where-you-go-is-the-key-parent {
+  position: absolute;
+  top: 2631px;
+  left: 92px;
+  width: 745px;
+  height: 368px;
+  font-size: 14px;
+  color: #d3ba74;
+}
+.landing06-01-inner {
+  position: absolute;
+  top: 4406px;
+  left: 1118px;
+  width: 228px;
+  height: 24px;
+}
+.landing06-01 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 4480px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Poppins;
+}
